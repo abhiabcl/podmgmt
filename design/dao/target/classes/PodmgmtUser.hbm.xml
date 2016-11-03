@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="com.av.podmgmt.dao.entity.PodmgmtUser" table="podmgmtuser">
+		<meta attribute="class-description">
+			This class contains the pod mgmt user details.
+		</meta>
+		<id name="mID" type="int" column="id">
+			<generator class="native" />
+		</id>
+		<property name="mUserid" column="userid" type="string" />
+		<property name="mPassword" column="password" type="string" />
+		<property name="mLastlogin" column="lastlogin" type="string" />
+		<property name="mMobileNo" column="mobileno" type="string" />
+		<property name="mEmail" column="email" type="string" />
+	</class>
+</hibernate-mapping>

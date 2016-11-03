@@ -1,0 +1,10 @@
+com\av\podmgmt\dao\entity\Product.class
+com\av\podmgmt\dao\entity\PurchaseOrder.class
+com\av\podmgmt\dao\handler\PodmgmtDbHandler.class
+com\av\podmgmt\dao\entity\Inventroy.class
+com\av\podmgmt\dao\entity\PodmgmtUser.class
+com\av\podmgmt\dao\entity\CustomerReference.class
+com\av\podmgmt\dao\entity\Catalog.class
+com\av\podmgmt\dao\factory\PodmgmtFactory.class
+com\av\podmgmt\dao\factory\PodmgmtDML.class
+com\av\podmgmt\dao\util\PodmgmtEnum.class

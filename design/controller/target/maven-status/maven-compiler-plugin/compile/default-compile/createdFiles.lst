@@ -1,0 +1,10 @@
+com\av\podmgmt\controller\handler\api\ILogicHandler.class
+com\av\podmgmt\controller\handler\CatalogEntity.class
+com\av\podmgmt\controller\handler\factory\FactoryProducer.class
+com\av\podmgmt\controller\handler\factory\AbstractFactory.class
+com\av\podmgmt\controller\handler\FrontController.class
+com\av\podmgmt\controller\handler\api\IBLController.class
+com\av\podmgmt\controller\handler\PodmgmtuserEntity.class
+com\av\podmgmt\controller\handler\impl\BLController.class
+com\av\podmgmt\controller\handler\factory\HandlerFactory.class
+com\av\podmgmt\controller\handler\factory\EntityFactory.class

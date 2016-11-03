@@ -1,0 +1,8 @@
+com\av\podmgmt\user\factory\PodmgmtSupplier.class
+com\av\podmgmt\user\factory\PodmgmtAdmin.class
+com\av\podmgmt\user\factory\PodmgmtUserProducer.class
+com\av\podmgmt\user\factory\IpodmgmtUser.class
+com\av\podmgmt\user\factory\AbspodmgmtUserFactory.class
+com\av\podmgmt\user\factory\PodmgmtUserFactory.class
+com\av\podmgmt\user\handler\api\IPodmgmtUserHandler.class
+com\av\podmgmt\user\handler\impl\PodmgmtUserHandler.class

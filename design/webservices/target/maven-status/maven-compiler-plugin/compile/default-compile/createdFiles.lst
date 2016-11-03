@@ -1,0 +1,7 @@
+com\av\podmgmt\ws\WsCatalog.class
+com\av\podmgmt\ws\WsCustomerReference.class
+com\av\podmgmt\ws\WsPodmgmtUser.class
+com\av\podmgmt\ws\WsInvntroy.class
+com\av\podmgmt\ws\WsPurchaseOrder.class
+com\av\podmgmt\ws\WsTestRest.class
+com\av\podmgmt\ws\WsProduct.class
